@@ -2,6 +2,8 @@
 # Project Overview:
 Our company was asked to help Dana provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. We added filtered datas on the tables given different city, state, country and shapes.
 
+The website can be reachable at index.html
+
 # Resources:
 UFO_startercode. js, app.js, indes. html, data. js
 Software used: HTML, bootstrap, javascript, Visual Studio COde, 
