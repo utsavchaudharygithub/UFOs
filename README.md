@@ -15,4 +15,4 @@ Software used: HTML, bootstrap, javascript, Visual Studio COde,
 # conclusion:
 The website could have been better if there was a CLEAR button, as the actual data remains still. Also, we need to make a better filtering options , for new user it will be hard to figure out which input to put into the system to get the datas involved.
 
-Linkedin at https://www.linkedin.com/in/utsav-chaudhary-b394152b/
+click for [linkedin](https://www.linkedin.com/in/utsav-chaudhary-b394152b/)
